@@ -420,4 +420,4 @@ docker compose exec web python manage.py createsuperuser
 
 ## License
 
-No license file is currently included. Add a license before distributing this project publicly.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
